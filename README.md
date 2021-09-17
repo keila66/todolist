@@ -1,5 +1,5 @@
 # Estudo TypeScript
-Programinha feito durante um mini-curso do (balta.io)[https://balta.io/], (Criando um App com React, TypeScript, Hooks, Context e Forms)[https://balta.io/cursos/criando-um-app-com-react-typeScript-hooks-context-forms], para práticar TypeScript.
+Programinha feito durante um mini-curso do [balta.io](https://balta.io/), [Criando um App com React, TypeScript, Hooks, Context e Forms](https://balta.io/cursos/criando-um-app-com-react-typeScript-hooks-context-forms), para práticar TypeScript.
 
 ---
 # Getting Started with Create React App
